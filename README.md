@@ -10,3 +10,4 @@ To run this project ->
 6) show dbs > use blogDB > show collections
 7) db.posts.find() -> to find all the inputs in blogs (database) (To verify if your entries are going in database or not)
 8) click read more to get more info about that post.
+9) To Compose a new post go to url -> "http://localhost:3000/compose"
